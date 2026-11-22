@@ -1,5 +1,5 @@
 ## Hi there 👋
- I'm a Individual Developer called Ender drate, which is from China.
+ I'm an Individual Developer called Ender drate, which is from China.
  
 🔭 I’m currently working on and learning about AI learning and attention system.
 
