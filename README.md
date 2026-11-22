@@ -1,8 +1,8 @@
 ## Hi there 👋
-### I'm a Individual Developer called Ender drate, which is from China.
-### 🔭 I’m currently working on and learning about AI learning and attention system.
-### 📫 How to reach me: If you have any question or advice about my projects, please contact me via email: discretization@proton.me
-### By the way, welcome to join my minecraft server: mc.yxzhou.com
+> I'm a Individual Developer called Ender drate, which is from China.
+> 🔭 I’m currently working on and learning about AI learning and attention system.
+> 📫 How to reach me: If you have any question or advice about my projects, please contact me via email: discretization@proton.me
+> By the way, welcome to join my minecraft server: mc.yxzhou.com
 <!--
 **Ender-Drate/Ender-Drate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
